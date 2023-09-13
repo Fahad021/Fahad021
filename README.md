@@ -1,6 +1,8 @@
-👋 Hi, I’m ***Abul Hasan Fahad***. I am seeking a Senior Data Scientist position.
+👋 Hi, I’m ***Abul Hasan Fahad***. I am seeking a Senior Data Scientist/Analytics Engineer position.
 
 **Explore my projects:**
+  - My Data Engnieering Repo
+    - https://github.com/datacode09?tab=repositories
   - Masters Course Projects
     -https://github.com/Fahad021/Masters-Course-Projects 
   - Deep Learning for large timeseries data
