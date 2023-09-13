@@ -23,7 +23,7 @@
     - https://bi-dashbaord-024e4cae0bac.herokuapp.com/
 - Covid Data Exploration and Forecasting:
   - [https://dashboard.heroku.com/apps/covid-forecast-001](https://covid-forecast-001-c7f505efba25.herokuapp.com/)
-- ML-based Hear Failure Prediction:
+- ML-based Heart Failure Prediction:
   - [https://dashboard.heroku.com/apps/heartfailureprediction001](https://heartfailureprediction001-df455e44b562.herokuapp.com/)
 - ML-based Salary Prediction:
   - [https://dashboard.heroku.com/apps/salary-predictor-001](https://salary-predictor-001-307d79ce6d9c.herokuapp.com/)
