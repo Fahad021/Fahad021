@@ -9,6 +9,8 @@
     - https://github.com/Fahad021/ANN-based-Multiple-Time-Series-Forecasting-
   - Forecasting software for hourly ISO Electricity Demand 
     - https://github.com/Fahad021/ELectricty-Market-Load-Forecaster
+  - Forecasting for hourly Nodal Price in Electricity Market 
+    - [https://github.com/Fahad021/ELectricty-Market-Load-Forecaster](https://github.com/Fahad021/LMP_Forecasting)
   - Clustering of Nodal Prices in a Electric Network (PJM)
     - https://github.com/Fahad021/PJM-Clustering
  - Optimization: Optimal Charging Management for Electric Vehicle under Bi-directional Power Flow Scenario
