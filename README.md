@@ -5,12 +5,14 @@
     - https://github.com/datacode09?tab=repositories
   - Masters Course Projects
     -https://github.com/Fahad021/Masters-Course-Projects 
-  - Deep Learning for large timeseries data
+  - Deep Learning for large timeseries forecasting 
     - https://github.com/Fahad021/ANN-based-Multiple-Time-Series-Forecasting-
-  - Forecasting of Electricity Demand 
+  - Forecasting of ISO Electricity Demand 
     - https://github.com/Fahad021/ELectricty-Market-Load-Forecaster
-  - Clustering of Nodal Prices in a Electricty Network
+  - Clustering of Nodal Prices in a Electric Network (PJM)
     - https://github.com/Fahad021/PJM-Clustering
+ - Optimization: Optimal Charging Management for Electric Vehicle under Bi-directional Power Flow Scenario
+    - https://github.com/Fahad021/Optimal-Charging-under-Vehicle-to-Grid- 
   - Exploratory and Statistical Significance Analysis of Electric Vehicle Ownership Survey Data
     - https://github.com/Fahad021/Survey-Data-Analysis
   - Data analytics for Sustainable Development
