@@ -5,9 +5,9 @@
     - https://github.com/datacode09?tab=repositories
   - Masters Course Projects
     -https://github.com/Fahad021/Masters-Course-Projects 
-  - Deep Learning for large timeseries forecasting 
+  - Deep Neural Net for large timeseries forecasting 
     - https://github.com/Fahad021/ANN-based-Multiple-Time-Series-Forecasting-
-  - Forecasting of ISO Electricity Demand 
+  - Forecasting software for hourly ISO Electricity Demand 
     - https://github.com/Fahad021/ELectricty-Market-Load-Forecaster
   - Clustering of Nodal Prices in a Electric Network (PJM)
     - https://github.com/Fahad021/PJM-Clustering
