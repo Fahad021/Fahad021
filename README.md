@@ -1,4 +1,4 @@
-👋 Hi, I’m ***Abul Hasan Fahad***. I am seeking a Senior Data Scientist/Analytics Engineer position.
+👋 Hi, I’m ***Abul Hasan Fahad***. Welcome to my page. 
 
 **Explore my projects:**
   - My Data Engnieering Repo
