@@ -1,36 +1,40 @@
-👋 Hi, I’m ***Abul Hasan Fahad***. Welcome to my page. 
+# 👋 Hi, I’m **Abul Hasan Fahad**
 
-**Explore my projects:**
-  - My Data Engnieering Repo
-    - https://github.com/datacode09?tab=repositories
-  - Masters Course Projects
-     - https://github.com/Fahad021/Masters-Course-Projects 
-  - Deep Neural Net for large timeseries forecasting 
-    - https://github.com/Fahad021/ANN-based-Multiple-Time-Series-Forecasting-
-  - Forecasting software for hourly ISO Electricity Demand 
-    - https://github.com/Fahad021/ELectricty-Market-Load-Forecaster
-  - Forecasting for hourly Nodal Price in Electricity Market 
-    - https://github.com/Fahad021/LMP_Forecasting
-  - Clustering of Nodal Prices in a Electric Network (PJM)
-    - https://github.com/Fahad021/PJM-Clustering
- - Optimization: Optimal Charging Management for Electric Vehicle under Bi-directional Power Flow Scenario
-    - https://github.com/Fahad021/Optimal-Charging-under-Vehicle-to-Grid- 
-  - Exploratory and Statistical Significance Analysis of Electric Vehicle Ownership Survey Data
-    - https://github.com/Fahad021/Survey-Data-Analysis
-  - Data analytics for Sustainable Development
-    - https://github.com/Fahad021/Country-Literacy-Rate-Prediction
-  - Energy Consumption Analaytics Use cases
-    - https://github.com/Fahad021/Smart-Meter-Data-Analysis
+Welcome to my GitHub profile. I work on projects in data engineering, forecasting, machine learning, and energy analytics.
 
-**Explore my data apps:**
-- Air Travel Data Exploration, Forecast, and Custom Model Training
-    - https://bi-dashbaord-024e4cae0bac.herokuapp.com/
-- Covid Data Exploration and Forecasting:
-  - [https://dashboard.heroku.com/apps/covid-forecast-001](https://covid-forecast-001-c7f505efba25.herokuapp.com/)
-- ML-based Heart Failure Prediction:
-  - [https://dashboard.heroku.com/apps/heartfailureprediction001](https://heartfailureprediction001-df455e44b562.herokuapp.com/)
-- ML-based Salary Prediction:
-  - [https://dashboard.heroku.com/apps/salary-predictor-001](https://salary-predictor-001-307d79ce6d9c.herokuapp.com/)
+## 🚀 Featured Repositories
+
+- **Data Engineering Portfolio**  
+  https://github.com/datacode09?tab=repositories
+- **Master’s Course Projects**  
+  https://github.com/Fahad021/Masters-Course-Projects
+- **Deep Neural Net for Large Time-Series Forecasting**  
+  https://github.com/Fahad021/ANN-based-Multiple-Time-Series-Forecasting-
+- **Hourly ISO Electricity Demand Forecasting**  
+  https://github.com/Fahad021/ELectricty-Market-Load-Forecaster
+- **Hourly Nodal Price Forecasting (Electricity Market)**  
+  https://github.com/Fahad021/LMP_Forecasting
+- **PJM Nodal Price Clustering**  
+  https://github.com/Fahad021/PJM-Clustering
+- **EV Charging Optimization with Vehicle-to-Grid Flow**  
+  https://github.com/Fahad021/Optimal-Charging-under-Vehicle-to-Grid-
+- **EV Ownership Survey: Statistical & Exploratory Analysis**  
+  https://github.com/Fahad021/Survey-Data-Analysis
+- **Sustainable Development Analytics**  
+  https://github.com/Fahad021/Country-Literacy-Rate-Prediction
+- **Smart Meter Energy Consumption Analytics**  
+  https://github.com/Fahad021/Smart-Meter-Data-Analysis
+
+## 🌐 Live Data Apps
+
+- **Air Travel Exploration, Forecasting, and Custom Model Training**  
+  https://bi-dashbaord-024e4cae0bac.herokuapp.com/
+- **COVID Data Exploration and Forecasting**  
+  https://covid-forecast-001-c7f505efba25.herokuapp.com/
+- **ML-Based Heart Failure Prediction**  
+  https://heartfailureprediction001-df455e44b562.herokuapp.com/
+- **ML-Based Salary Prediction**  
+  https://salary-predictor-001-307d79ce6d9c.herokuapp.com/
 
 
 <!---
