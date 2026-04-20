@@ -1,41 +1,52 @@
-# 👋 Hi, I’m **Abul Hasan Fahad**
+# Abul Hasan Fahad
 
-Welcome to my GitHub profile. I work on projects in data engineering, forecasting, machine learning, and energy analytics.
+**Data Engineer | Machine Learning & Forecasting | Energy Analytics**
 
-## 🚀 Featured Repositories
+I build data-driven solutions across forecasting, optimization, and applied machine learning.  
+My work focuses on turning complex datasets into practical insights and decision-support tools.
 
-- **Data Engineering Portfolio**  
-  https://github.com/datacode09?tab=repositories
-- **Master’s Course Projects**  
+## About Me
+
+- Working across **data engineering, predictive modeling, and analytics**
+- Strong interest in **energy systems, electricity markets, and sustainable technology**
+- Building end-to-end projects from **data pipelines** to **model deployment**
+
+## Featured Projects
+
+- **Master’s Course Projects** — academic and applied data science work  
   https://github.com/Fahad021/Masters-Course-Projects
-- **Deep Neural Net for Large Time-Series Forecasting**  
+- **Large Time-Series Forecasting with Deep Neural Networks**  
   https://github.com/Fahad021/ANN-based-Multiple-Time-Series-Forecasting-
-- **Hourly ISO Electricity Demand Forecasting**  
+- **ISO Electricity Demand Forecasting (Hourly)**  
   https://github.com/Fahad021/ELectricty-Market-Load-Forecaster
-- **Hourly Nodal Price Forecasting (Electricity Market)**  
+- **Electricity Market Nodal Price Forecasting (LMP)**  
   https://github.com/Fahad021/LMP_Forecasting
 - **PJM Nodal Price Clustering**  
   https://github.com/Fahad021/PJM-Clustering
-- **EV Charging Optimization with Vehicle-to-Grid Flow**  
+- **EV Charging Optimization with Vehicle-to-Grid (V2G)**  
   https://github.com/Fahad021/Optimal-Charging-under-Vehicle-to-Grid-
-- **EV Ownership Survey: Statistical & Exploratory Analysis**  
+- **EV Ownership Survey Analysis (EDA + Statistics)**  
   https://github.com/Fahad021/Survey-Data-Analysis
-- **Sustainable Development Analytics**  
+- **Country Literacy Rate Prediction (Sustainable Development Analytics)**  
   https://github.com/Fahad021/Country-Literacy-Rate-Prediction
 - **Smart Meter Energy Consumption Analytics**  
   https://github.com/Fahad021/Smart-Meter-Data-Analysis
 
-## 🌐 Live Data Apps
+## Live Data Applications
 
 - **Air Travel Exploration, Forecasting, and Custom Model Training**  
   https://bi-dashbaord-024e4cae0bac.herokuapp.com/
 - **COVID Data Exploration and Forecasting**  
   https://covid-forecast-001-c7f505efba25.herokuapp.com/
-- **ML-Based Heart Failure Prediction**  
+- **Heart Failure Prediction App (ML)**  
   https://heartfailureprediction001-df455e44b562.herokuapp.com/
-- **ML-Based Salary Prediction**  
+- **Salary Prediction App (ML)**  
   https://salary-predictor-001-307d79ce6d9c.herokuapp.com/
 
+## Connect
+
+- **Portfolio:** https://fahad021.github.io/
+- **LinkedIn:** https://www.linkedin.com/in/abulhfahad/
 
 <!---
 Fahad021/Fahad021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
